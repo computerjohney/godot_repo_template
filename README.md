@@ -1,3 +1,6 @@
+#
+# A TEST BY computerjohney
+#
 # godot-plus-plus
 This repository provides a user-friendly template for developing [GDExtensions](https://docs.godotengine.org/en/stable/classes/class_gdextension.html) in C++ for [Godot Engine](https://godotengine.org/).  Unlike traditional setups that require manual configuration, file editing, and command-line tinkering, [Godot Plus Plus](https://github.com/nikoladevelops/godot-plus-plus) simplifies the entire process with a single <b>`setup.py`</b> script that automates everything - from initializing submodules to configuring your library name and entry points. This makes it perfect for beginners and experienced developers alike, enabling a fast workflow to write, compile, and test C++ plugins in Godot with minimal hassle.
 
